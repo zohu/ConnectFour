@@ -1,8 +1,8 @@
 # ConnectFour
 Connect Four game 
 
-Project for first year of computer science.
+Project due on first year of computer science.
 
-It in't perfect and stills to improve.
+It isn't perfect and stills to improve.
 
 Enjoy!
