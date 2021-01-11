@@ -63,7 +63,7 @@ int main()
 
     cout << "-------------------------------------------------------------" << endl;
     cout << "          Conecta 4 - Trabajo final de informatica           " << endl;
-    cout << "    Por Carlos Marin Perez y Alejandro Plasencia Querol      " << endl;
+    cout << "                  Por Carlos Marin Perez                     " << endl;
     cout << "-------------------------------------------------------------" << endl;
 
 
